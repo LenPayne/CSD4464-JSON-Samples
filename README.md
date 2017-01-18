@@ -31,5 +31,3 @@ JAR/Folder". Navigate to your project folder, and select the JAR file. This
 should indicate a relative path to the file, not an absolute path.
 
 *NOTE*: If you use an absolute path, your project will not be portable.
-
-## Using JSON-Simple
